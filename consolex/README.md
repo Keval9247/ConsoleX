@@ -21,13 +21,13 @@ This guide provides step-by-step instructions to clone and test this VS Code ext
 Run the following command in your terminal to clone the extension's repository:
 
 ```
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/Keval9247/ConsoleX.git
 ```
 
 Navigate into the project folder :
 
 ```
-cd <repository-name>
+cd consolex
 ```
 
 ### Install Dependencies :
