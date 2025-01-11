@@ -58,6 +58,9 @@ code .
 - The Extension Development Host window will open, where you can test your extension’s functionality.
 - Follow any specific usage instructions for the extension.
 
+### Image - consoleX-VS_Code_Extension
+![consoleX](/consoleX-vs-code-extension.png)
+
 
 ## Troubleshooting
 
